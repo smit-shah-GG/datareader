@@ -1,0 +1,136 @@
+
+ 
+ TSLA Stock price data: 
+ 
+                  Open        High         Low       Close   Adj Close    Volume
+Date                                                                            
+2010-06-29    3.800000    5.000000    3.508000    4.778000    4.778000  93831500
+2010-06-30    5.158000    6.084000    4.660000    4.766000    4.766000  85935500
+2010-07-01    5.000000    5.184000    4.054000    4.392000    4.392000  41094000
+2010-07-02    4.600000    4.620000    3.742000    3.840000    3.840000  25699000
+2010-07-06    4.000000    4.000000    3.166000    3.222000    3.222000  34334500
+...                ...         ...         ...         ...         ...       ...
+2022-08-08  885.000000  915.599976  867.260010  871.270020  871.270020  32998000
+2022-08-09  870.880005  877.190002  838.059998  850.000000  850.000000  28748200
+2022-08-10  891.200012  892.530029  850.109985  883.070007  883.070007  31639600
+2022-08-11  889.539978  894.710022  857.500000  859.890015  859.890015  23328800
+2022-08-12  868.244995  888.270020  855.099976  885.960022  885.960022  17053403
+
+[3053 rows x 6 columns]
+ 
+TSLA info: 
+
+        0                                      1
+0  17.19%        % of Shares Held by All Insider
+1  42.76%       % of Shares Held by Institutions
+2  51.64%        % of Float Held by Institutions
+3    3338  Number of Institutions Holding Shares                             Value
+2022-5                            
+palmOil                      False
+controversialWeapons         False
+gambling                     False
+socialScore                  16.16
+nuclear                      False
+furLeather                   False
+alcoholic                    False
+gmo                          False
+catholic                     False
+socialPercentile              None
+peerCount                       37
+governanceScore               9.61
+environmentPercentile         None
+animalTesting                False
+tobacco                      False
+totalEsg                     28.54
+highestControversy               3
+esgPerformance            AVG_PERF
+coal                         False
+pesticides                   False
+adult                        False
+percentile                   56.22
+peerGroup              Automobiles
+smallArms                    False
+environmentScore              2.78
+governancePercentile          None
+militaryContract             False                                           2021-12-31     2020-12-31     2019-12-31     2018-12-31
+Research Development                     2593000000.0   1491000000.0   1343000000.0   1460000000.0
+Effect Of Accounting Charges                     None           None           None           None
+Income Before Tax                        6343000000.0   1154000000.0   -665000000.0  -1005000000.0
+Minority Interest                        1394000000.0   1454000000.0   1492000000.0   1390000000.0
+Net Income                               5519000000.0    721000000.0   -862000000.0   -976000000.0
+Selling General Administrative           4517000000.0   3188000000.0   2646000000.0   2835000000.0
+Gross Profit                            13606000000.0   6630000000.0   4069000000.0   4042000000.0
+Ebit                                     6523000000.0   1951000000.0     80000000.0   -253000000.0
+Operating Income                         6523000000.0   1951000000.0     80000000.0   -253000000.0
+Other Operating Expenses                  -27000000.0    -27000000.0    -27000000.0    -27000000.0
+Interest Expense                         -358000000.0   -784000000.0   -725000000.0   -653000000.0
+Extraordinary Items                              None           None           None           None
+Non Recurring                                    None           None           None           None
+Other Items                                      None           None           None           None
+Income Tax Expense                        699000000.0    292000000.0    110000000.0     58000000.0
+Total Revenue                           53823000000.0  31536000000.0  24578000000.0  21461000000.0
+Total Operating Expenses                47300000000.0  29585000000.0  24498000000.0  21714000000.0
+Cost Of Revenue                         40217000000.0  24906000000.0  20509000000.0  17419000000.0
+Total Other Income Expense Net           -180000000.0   -797000000.0   -745000000.0   -752000000.0
+Discontinued Operations                          None           None           None           None
+Net Income From Continuing Ops           5644000000.0    862000000.0   -775000000.0  -1063000000.0
+Net Income Applicable To Common Shares   5524000000.0    690000000.0   -870000000.0   -976000000.0                                             2021-12-31    2020-12-31    2019-12-31    2018-12-31
+Investments                               -1.320000e+08 -1.320000e+08 -1.320000e+08 -1.320000e+08
+Change To Liabilities                      5.371000e+09  2.423000e+09  1.447000e+09  2.203000e+09
+Total Cashflows From Investing Activities -7.868000e+09 -3.132000e+09 -1.436000e+09 -2.337000e+09
+Net Borrowings                            -5.732000e+09 -2.488000e+09  7.980000e+08  8.900000e+07
+Total Cash From Financing Activities      -5.203000e+09  9.973000e+09  1.529000e+09  5.740000e+08
+Change To Operating Activities            -3.014000e+09 -1.165000e+09 -1.000000e+09 -6.250000e+08
+Issuance Of Stock                          7.070000e+08  1.268600e+10  1.111000e+09  2.960000e+08
+Net Income                                 5.519000e+09  7.210000e+08 -8.620000e+08 -9.760000e+08
+Change In Cash                            -1.757000e+09  1.311800e+10  2.506000e+09  3.120000e+08
+Effect Of Exchange Rate                   -1.830000e+08  3.340000e+08  8.000000e+06 -2.300000e+07
+Total Cash From Operating Activities       1.149700e+10  5.943000e+09  2.405000e+09  2.098000e+09
+Depreciation                               2.810000e+09  2.322000e+09  2.092000e+09  1.888000e+09
+Other Cashflows From Investing Activities  6.000000e+06  1.230000e+08  4.600000e+07  4.600000e+07
+Change To Inventory                       -1.709000e+09 -4.220000e+08 -4.290000e+08 -1.023000e+09
+Change To Account Receivables             -1.300000e+08 -6.520000e+08 -3.670000e+08 -4.970000e+08
+Other Cashflows From Financing Activities -1.780000e+08 -2.250000e+08 -3.800000e+08  1.890000e+08
+Change To Netincome                        2.650000e+09  2.716000e+09  1.524000e+09  9.690000e+08
+Capital Expenditures                      -8.014000e+09 -3.232000e+09 -1.432000e+09 -2.319000e+09                                  Firm        To Grade From Grade Action
+Date                                                                    
+2012-02-16 07:42:00          JP Morgan      Overweight              main
+2012-02-16 13:53:00         Wunderlich            Hold              down
+2012-02-17 06:17:00         Oxen Group             Buy              init
+2012-03-26 07:31:00         Wunderlich             Buy                up
+2012-05-22 05:57:00        Maxim Group             Buy              init
+...                                ...             ...        ...    ...
+2022-07-21 10:45:00  B of A Securities         Neutral              main
+2022-07-21 11:41:28        Wells Fargo    Equal-Weight              main
+2022-07-21 14:13:03  Canaccord Genuity             Buy              main
+2022-07-21 14:19:43        Cowen & Co.  Market Perform              main
+2022-08-02 12:38:13          Citigroup            Sell              main
+
+[473 rows x 4 columns]                                                2021-12-31    2020-12-31    2019-12-31    2018-12-31
+Intangible Assets                             2.570000e+08  3.130000e+08  3.390000e+08  2.820000e+08
+Capital Surplus                               2.980300e+10  2.726000e+10  1.273600e+10  1.024900e+10
+Total Liab                                    3.054800e+10  2.846900e+10  2.619900e+10  2.342700e+10
+Total Stockholder Equity                      3.018900e+10  2.222500e+10  6.618000e+09  4.923000e+09
+Minority Interest                             1.394000e+09  1.454000e+09  1.492000e+09  1.390000e+09
+Other Current Liab                            4.756000e+09  4.147000e+09  3.693000e+09  2.955000e+09
+Total Assets                                  6.213100e+10  5.214800e+10  3.430900e+10  2.974000e+10
+Common Stock                                  1.000000e+06  1.000000e+06  1.000000e+06           NaN
+Other Current Assets                          3.450000e+08  2.380000e+08  2.460000e+08  1.930000e+08
+Retained Earnings                             3.310000e+08 -5.399000e+09 -6.083000e+09 -5.318000e+09
+Other Liab                                    3.896000e+09  3.302000e+09  2.969000e+09  2.318000e+09
+Good Will                                     2.000000e+08  2.070000e+08  1.980000e+08  6.800000e+07
+Gains Losses Not Affecting Retained Earnings  5.400000e+07  3.630000e+08 -3.600000e+07 -8.000000e+06
+Other Assets                                  3.398000e+09  1.536000e+09  1.469000e+09  1.380000e+09
+Cash                                          1.757600e+10  1.938400e+10  6.268000e+09  3.686000e+09
+Total Current Liabilities                     1.970500e+10  1.424800e+10  1.066700e+10  9.993000e+09
+Short Long Term Debt                          1.088000e+09  1.758000e+09  1.399000e+09  2.284000e+09
+Other Stockholder Equity                      5.400000e+07  3.630000e+08 -3.600000e+07 -8.000000e+06
+Property Plant Equipment                      3.117600e+10  2.337500e+10  2.019900e+10  1.969100e+10
+Total Current Assets                          2.710000e+10  2.671700e+10  1.210300e+10  8.307000e+09
+Net Tangible Assets                           2.973200e+10  2.170500e+10  6.081000e+09  4.573000e+09
+Short Term Investments                        1.310000e+08           NaN           NaN           NaN
+Net Receivables                               1.986000e+09  1.903000e+09  1.324000e+09  9.490000e+08
+Long Term Debt                                4.285000e+09  8.571000e+09  1.037500e+10  8.461000e+09
+Inventory                                     5.757000e+09  4.101000e+09  3.552000e+09  3.113000e+09
+Accounts Payable                              1.002500e+10  6.051000e+09  3.771000e+09  3.405000e+09
+Long Term Investments                                  NaN           NaN  1.000000e+06  1.200000e+07
